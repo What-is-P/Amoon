@@ -20,3 +20,19 @@ And it's made with GitHub (so anyone can fork it).
 - **1** Core (or higher)
 - **1** pixel of monitor resolution (or higher)
 - and finally, the ability to handle a **single** byte.
+
+# Contribution
+
+- Note: contribution links are significantly tested before applyment.
+
+### Contribution links & emails
+
+Visit https://github.com/What-is-P if you are invited but don't want to see emails.
+
+See the email if you are invited.
+
+### Related for contributors
+
+- **Discussions** are enabled.
+- This **repository** is public.
+- The source of the **organization** icon is from a video called **What is P (original anime music video)** by 
