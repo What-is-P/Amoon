@@ -35,4 +35,5 @@ See the email if you are invited.
 
 - **Discussions** are enabled.
 - This **repository** is public.
-- The source of the **organization** icon is from a video called **What is P (original anime music video)** by 
+- The source of the **organization** icon is from a video called **What is P (original anime music video)** by Pmarusama.
+- This **organization** is made by a person called **Miguel teixeira**.
