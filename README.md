@@ -37,3 +37,9 @@ See the email if you are invited.
 - This **repository** is public.
 - The source of the **organization** icon is from a video called **What is P (original anime music video)** by Pmarusama.
 - This **organization** is made by a person called **Miguel teixeira**.
+
+# Emails
+
+- Email **migueloproio903@gmail.com** in gmail if you want to email me.
+
+- Join the discord server by visiting https://discord.gg/HNPAdFWG and joining it, and/or keep emailing me, which i pitched earlier.
