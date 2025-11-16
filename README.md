@@ -13,7 +13,7 @@ And it's made with GitHub (so anyone can fork it).
 # System requirements
 
 - **144MB** of storage (or higher)
-- **1GB** of VRAM (or higher)
+- **2MB** of VRAM (or higher)
 - **1GB** of RAM (or higher)
 - **9B** of external storage (or higher)
 - At least **1** FPS (or higher)
