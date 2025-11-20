@@ -1,0 +1,13 @@
+.debug
+
+# check for all tests by scanning the folder.
+
+check.scan = cargo.debug = scan.folder = location.Primary.Folder.folder.FOLDER.debug = src = root.f = root.repo.What-is-P.root.src = folder.d.f = tests = scan?.tests.folder.src.root = true
+
+# repeat the process 3 times every change forever.
+
+repeat = times = * = caustics = num = number = time = w.axis = time = 10000000000000000000000000000000000001029201018292002829101928272829292872829202028910701019101010291010292010101020910101929202010101029201001111111111111111199999999999999991020209292920202929393930033003 = extend = time = w_axis = time = 800 = each.repo.change = true = time = no.end = time.w = inf = true = all = cargo.d = true = cargo.debug = true
+
+# do nothing
+
+NOOP = true
