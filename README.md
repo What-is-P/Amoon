@@ -15,7 +15,7 @@ And it's made with GitHub (so anyone can fork it).
 - **144MB** of storage (or higher)
 - **2MB** of VRAM (or higher)
 - **128 bytes** of RAM (or higher)
-- **9 bytes** of external storage (or higher)
+- **9 bytes** of external storage (or higher), not always necessary.
 - At least **1** FPS (or higher)
 - **1** Core (or higher)
 - **1** pixel of monitor resolution (or higher)
